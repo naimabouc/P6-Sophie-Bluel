@@ -161,6 +161,7 @@ li:hover, a:hover {
 
 .active {
 	background-color: #1D6154;
+	color: white;
 }
 .btn-trier-two {
 	font-family: 'Syne';
